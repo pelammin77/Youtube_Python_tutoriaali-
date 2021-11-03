@@ -1,0 +1,2 @@
+Tervetuloa Python ohjelmointikielen peruskurssille. Kurssi perustuu syksyllä 2020 YouTubessa toteuttamaani videokurssiin.
+Kurssilla käyn läpi Python-ohjelmoinnin perusasiat. Tavoitteena on, että kurssin jälkeen katsojalla on peruskäsitys Pythonista ja hän pystyisi toteuttamaan ensimmäisen perustason python ohjelman/projektin.
